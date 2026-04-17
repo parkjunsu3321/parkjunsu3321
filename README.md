@@ -62,7 +62,7 @@
 
 ## 📫 Contact
 
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
+* GitHub: [https://github.com/parkjunsu3321](https://github.com/parkjunsu3321)
 * Email: [arkob3321@gmail.com](mailto:arkob3321@gmail.com)
 
 ---
